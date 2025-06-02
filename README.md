@@ -1,2 +1,2 @@
-# PangTeen-s-Note
-PangTeen's note ~
+# PangTeen's Note
+Welcome to PangTeen's note ~
